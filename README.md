@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>home.infiniteconsciousness | Handshake Domain | Non-Algorithmic Consciousness Simulation</title>
+    <title>Non-Algorithmic Consciousness Simulation</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -36,12 +36,44 @@
             border-radius: 10px;
             background-color: #f9f9f9;
         }
+        img {
+            width: 100%;
+            height: auto;
+            margin-top: 20px;
+        }
     </style>
 </head>
 <body>
 
 <div class="container">
     <h1>Non-Algorithmic Consciousness Simulation</h1>
+    
+    <p>Welcome to the Interactive Non-Algorithmic Consciousness Simulation, a project that blends science, technology, and creativity to explore the fascinating realm of consciousness. This simulation provides an engaging way to understand how various sensory inputs contribute to a unified conscious experience.</p>
+
+    <h2>Features:</h2>
+    <ul>
+        <li><strong>Dynamic Sensory Inputs:</strong> Generate random sensory experiences each time you interact, including visual, auditory, tactile, olfactory, and gustatory sensations.</li>
+        <li><strong>Subjective Experience Generation:</strong> Simulate subjective experiences (qualia) based on gathered sensory inputs.</li>
+        <li><strong>Self-Awareness Simulation:</strong> Reflect self-awareness as a distinct entity.</li>
+        <li><strong>Intentionality Assessment:</strong> Determine intentionality related to the generated subjective experience.</li>
+        <li><strong>Unified Conscious Experience:</strong> Integrate all experiences into a cohesive conscious state.</li>
+    </ul>
+
+    <h2>How to Use:</h2>
+    <p>Click the "Generate Conscious Experience" button to simulate a new set of random sensory inputs. The simulation will display the integrated conscious experience based on the random sensory inputs, subjective experience, self-awareness, and intentionality.</p>
+
+    <h2>Purpose:</h2>
+    <p>This project aims to provide a hands-on, interactive way to explore and understand the non-algorithmic aspects of consciousness. It serves as a tool for both educational purposes and creative exploration.</p>
+
+    <h2>Technologies Used:</h2>
+    <ul>
+        <li><strong>HTML:</strong> Provides the structure for the web page.</li>
+        <li><strong>CSS:</strong> Styles the interactive elements to create an engaging user interface.</li>
+        <li><strong>JavaScript:</strong> Powers the dynamic generation and integration of sensory experiences.</li>
+    </ul>
+
+    <img src="sandbox:/mnt/data/Create_a_futuristic_digital_illustration_represent.png" alt="Non-Algorithmic Consciousness Simulation">
+
     <button class="btn" onclick="runSimulation()">Generate Conscious Experience</button>
     <div class="output" id="output"></div>
 </div>
@@ -99,3 +131,4 @@
 
 </body>
 </html>
+
