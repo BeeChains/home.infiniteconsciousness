@@ -132,6 +132,8 @@
 </script>
 
 </body>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/r6whkyK"><a href="//imgur.com/a/r6whkyK">Non-Algorithmic Consciousness Simulation</a></blockquote>
+<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </html>
 
 
