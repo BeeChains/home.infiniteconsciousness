@@ -10,7 +10,7 @@
             font-family: Arial, sans-serif;
             margin: 20px;
             background-image: url('https://imgur.com/r6whkyK'); /* Replace with the direct image URL */
-            background-size: cover;
+            background-size: 700px;
             background-position: left;
             background-repeat: no-repeat;
             color: white;
