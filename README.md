@@ -77,6 +77,9 @@
     <div class="output" id="output"></div>
 </div>
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/r6whkyK"><a href="//imgur.com/a/r6whkyK">Non-Algorithmic Consciousness Simulation</a></blockquote>
+<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 <script>
     const possibleInputs = {
         visual: ["seeing a beautiful sunset", "observing a busy street", "watching a serene forest", "gazing at a starry sky", "viewing a vibrant painting"],
@@ -129,7 +132,7 @@
 </script>
 
 </body>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/r6whkyK"  ><a href="//imgur.com/a/r6whkyK">Non-Algorithmic Consciousness Simulation</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </html>
+
 
 
