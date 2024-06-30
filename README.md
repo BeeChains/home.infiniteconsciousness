@@ -12,7 +12,7 @@
             background-image: url('https://imgur.com/r6whkyK'); /* Replace with the direct image URL */
             background-size: 700px;
             background-position: left;
-            background-repeat: no-repeat;
+            background-repeat: true;
             color: white;
         }
         .container {
