@@ -9,14 +9,20 @@
         body {
             font-family: Arial, sans-serif;
             margin: 20px;
+            background-image: url('https://i.imgur.com/tg1BAEE.png'); /* Replace with the direct image URL */
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            color: white;
         }
         .container {
             max-width: 800px;
             margin: auto;
             padding: 20px;
+            background: rgba(0, 0, 0, 0.8);
             border: 1px solid #ccc;
             border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
         }
         .btn {
             padding: 10px 20px;
@@ -32,14 +38,9 @@
         .output {
             margin-top: 20px;
             padding: 20px;
+            background: rgba(255, 255, 255, 0.1);
             border: 1px solid #ccc;
             border-radius: 10px;
-            background-color: #f9f9f9;
-        }
-        img {
-            width: 100%;
-            height: auto;
-            margin-top: 20px;
         }
     </style>
 </head>
@@ -71,8 +72,6 @@
         <li><strong>CSS:</strong> Styles the interactive elements to create an engaging user interface.</li>
         <li><strong>JavaScript:</strong> Powers the dynamic generation and integration of sensory experiences.</li>
     </ul>
-
-     <img src="https://imgur.com/a/tg1BAEE" alt="Non-Algorithmic Consciousness Simulation">
 
     <button class="btn" onclick="runSimulation()">Generate Conscious Experience</button>
     <div class="output" id="output"></div>
@@ -131,4 +130,5 @@
 
 </body>
 </html>
+
 
