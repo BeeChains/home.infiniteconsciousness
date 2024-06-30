@@ -72,7 +72,7 @@
         <li><strong>JavaScript:</strong> Powers the dynamic generation and integration of sensory experiences.</li>
     </ul>
 
-    <img src="https://files.oaiusercontent.com/file-3qrbakzDUNSWmivz8M7aAQwb?se=2024-06-30T03%3A20%3A20Z&sp=r&sv=2023-11-03&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3De69142cb-d7eb-4584-9468-62303e0d9e19.webp&sig=DC4oT%2BDaWoIaMGW4Vo/JimrA2cUS7s3tux6i2ZMO5I0%3D" alt="Non-Algorithmic Consciousness Simulation">
+     <img src="https://files.oaiusercontent.com/file-3qrbakzDUNSWmivz8M7aAQwb?se=2024-06-30T03%3A20%3A20Z&sp=r&sv=2023-11-03&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3De69142cb-d7eb-4584-9468-62303e0d9e19.webp&sig=DC4oT%2BDaWoIaMGW4Vo/JimrA2cUS7s3tux6i2ZMO5I0%3D" alt="Non-Algorithmic Consciousness Simulation">
 
     <button class="btn" onclick="runSimulation()">Generate Conscious Experience</button>
     <div class="output" id="output"></div>
