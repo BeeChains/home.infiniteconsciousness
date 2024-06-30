@@ -9,7 +9,7 @@
         body {
             font-family: Arial, sans-serif;
             margin: 20px;
-            background-image: url('https://imgur.com/r6whkyK'); /* Replace with the direct image URL */
+            background-image: url('https://pbs.twimg.com/media/GRS0LA8XUAAizGW?format=png&name=large'); /* Replace with the direct image URL */
             background-size: 700px;
             background-position: left;
             background-repeat: true;
